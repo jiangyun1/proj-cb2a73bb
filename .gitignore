@@ -12,3 +12,26 @@ target/
 Thumbs.db
 desktop.ini
 *.zip
+# --- publish script ---
+node_modules/
+**/node_modules/
+dist/
+build/
+target/
+.idea/
+.vscode/
+*.iml
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
+.npm/
+.cache/
+coverage/
+.nuxt/
+.output/
+vendor/
