@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+target/
+.idea/
+.vscode/
+*.iml
+.env
+.env.local
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
